@@ -1,0 +1,19 @@
+For my Infosocial project, I intend to engage with GitHub. At its core, GitHub is a cloud-based software as a service (SaaS) website that provides a place where users can store, share, and collaborate on Git repositories. To ensure that my readers are with me here, Git is a popular version control software (VCS) that provides a safety valve in the event of future changes. This makes it easier for programmers working on files simultaneously: when saving a file, users verify the changes that they made based on Git's logs. If a mistake was made, users to revert the changes that caused the errors. In effect, Git keeps a series of time capsules similar to backing up your Mac with Time Machine.
+
+What makes GitHub eligible for this project, though, is its social side: users can see others' public projects, create their own versions, and contribute their changes back to the original. This allows users to collaborate with strangers all across the world on programming projects. To help ensure that this interaction takes place, the site offers users free repositories as long as the project is public and open-source.
+
+Over the course of this semester, I will become involved with GitHub in five ways.
+
+First, I will post my own code and use the site as the home for upcoming personal projects, and I will invite feedback and contributions from others. I already have a few projects in mind that I intend to build this semester, so having source material for this is not a concern.
+
+Second, I will use GitHub to collaborate with group-mates on class projects. This aspect of my work will include at least three projects because I have three courses with substantial group programming projects.
+
+Third, when demonstrating techniques for people on Reddit, I will post code snippets using the GitHub Gist feature rather than using jsFiddle. I frequently contribute to sub-Reddits such as /r/CSS, /r/WebDev, /r/JavaScript, and, increasingly, /r/Python, meaning that these demonstrations will represent non-trivial interaction with GitHub.
+
+Fourth, I plan to identify an open-source project to which I can contribute, most likely in the form of documentation. I have not yet decided on a project, but jQuery, jQueryUI, and Twitter Bootstrap are the tools for which I am in the best position to do so (and jQuery actively invites contributions).
+
+Finally, I will discuss GitHub with fellow attendees at programming meetups that I attend. These meetups include people with substantial experience using sites like GitHub, so I will be able to gather the insights of local experts on the community of people who use them.
+
+Aside from my discussions with people at meetups, which I will document by posting to my Infosocial blog, this work will create a verifiable timeline of my activity and contributions, including commit logs (the logs tracking the changes that I make to a project). These logs have timestamps that are generated automatically. They will track when I make changes, what I changed, and what message I wrote to accompany my change.
+
+GitHub represents a worthwhile topic for this project because of the size of its community. Over the last few years, it has become the de facto place for developers of all kinds to interact and share code, especially for open-source projects. Aside from democratizing (for the most part) this area of teh software community, this is interesting because it opens up a lens into the process that shapes the digital products that we use. With that in mind, I intend to analyze GitHub from the perspectives of distributed collaboration (from the week on "6 billion people / 6 degrees of separation"), classification and categorization (from the week on "How people organize information / How information organizes people"), and archives and obsolescence (from the week on "Keeping everything / Intentional forgetting").
