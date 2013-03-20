@@ -1,0 +1,21 @@
+My turn enabling the filter bubble
+
+Link-sharing algorithm
+1. Consume a piece of media online (e.g., article, site, image)
+2. If the item does not appeal to my interest, discard
+3. If the item was found via Twitter, share via retweet and skip (5)
+4. If the item was found via Facebook, share via status update with a mention of the source and skip (6)
+5. If the item relates to programming, web development, or technology, share via Tumblr, which automatically posts to Twitter
+6. If the item has general appeal or social implications, share via Facebook status update
+7. If the item relates to a conversation with someone who uses the service via which I am sharing it, mention that person in the message (using @ on Twitter or on Facebook)
+8. Follow up with additional content that provides background or reactions to the item, sharing it via replies on the same services used to share the original item
+
+This link-sharing algorithm describes my actual process for deciding whether, how, and where to share content via the web. As anyone who follows me on Twitter or is friends with my on Facebook can attest, I share a fair amount of content, so I use this algorithm frequently. This algorithm also accounts for the majority of my activity on social networks such as Twitter and Facebook, as I readily share information about my interests (what's on my mind, in effect) while remaining reluctant to share details about my personal life. Thus, this algorithm will necessarily influence others' impressions of me, especially those people with whom I only connect via social networks rather than interactions in real life.
+
+That idea leads into the primary trade-off present in this algorithm: it turns my content sharing behavior (i.e. the role that I play in my connections' natural content discovery) into a pseudo-filter in others' filter bubble (Pariser). By making a conscious decision to share certain items via specific media, I decrease the likelihood that my contacts on one social network will be exposed to the information that I share only in other places. This undermines those people's ability to break out of their filter bubble. That is, my Facebook friends are less likely to discover the technical tools that could have gotten them to start programming and that my Twitter followers may never see the article about drones or a case before the Supreme Court that I share with my Facebook friends. As Gillespie discusses in relation to Twitter Trends, my sharing algorithm treats content as "platform specific" in that it plays into Twitter's assumption that users (the "public") do not "participate in and manage overlapping networks of information and people" (Gillespie).
+
+In fact, this aspect of my sharing algorithm has already been illustrated to me in real life. Over dinner this past Christmas, one of my aunts, who started to use Twitter but is not on Facebook, asked me why I always share information about technology. She knew me as a politically interested and active person and expected that I would share content that aligned with this persona, so she was surprised (and a little disappointed) that many of my tweets instead related to my work and school activities. Thanks to my sharing algorithm, I was blocking my aunt's access to the content that I typically only shared via Facebook (and that she expected to discover thanks to me).
+
+Works Cited
+Gillespie, Tarleton. (2012). Can an Algorithm be Wrong? LIMN Issue Number Two. Retrieved from: http://limn.it/can-an-algorithm-be-wrong/.
+Pariser, Eli. (2011). The Filter Bubble (video). TED. Retrieved from: http://www.thefilterbubble.com/ted-talk.
