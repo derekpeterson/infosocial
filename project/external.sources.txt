@@ -1,0 +1,6 @@
+External sources used:
+Bauer, Dana, et al. Visualizing GitHub, Part I: Data to Information. (2013). PyCon. http://www.youtube.com/watch?v=VpTPAJ0rvq8.
+Bourne, Will. 2 Reasons to Keep an Eye on GitHub. (2013). Inc. http://www.inc.com/magazine/201303/will-bourne/2-reasons-to-keep-an-eye-on-github.html.
+Dabbish, Laura, et al. Social Coding in GitHub: Transparency and Collaboration in an Open Software Repository. (2012). CSCW Session: Toolkits and Software Development. http://felixge.de/2013/03/11/the-pull-request-hack.html.
+Geisendörfer, Felix. The Pull Request Hack. (2013). http://felixge.de/2013/03/11/the-pull-request-hack.html.
+Rogers, Mikeal. The GitHub Revolution: Why We're All in Open Source Now. (2013). Wired. http://www.wired.com/opinion/2013/03/github/.
