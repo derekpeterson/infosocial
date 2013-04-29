@@ -1,0 +1,58 @@
+body {
+    margin: 1em;
+}
+h1 {
+    margin-top: 1.5in;
+}
+.title,
+h2 {
+    text-align: center;
+}
+blockquote,
+blockquote.pull-right {
+    border-color: rgb(0, 120, 180);
+    font-size: 1.3em;
+    margin: 1em;
+    width: 40%;
+}
+.section {
+    clear: both;
+    margin: 2em 0;
+}
+.section > h3 {
+    page-break-after: avoid;
+}
+.intro p {
+    font-size: 1.2em;
+    font-weight: 200;
+}
+.definitions {
+    border: 1px solid;
+    padding: 0 1em;
+    page-break-inside: avoid;
+}
+.text-info {
+    border: 1px solid rgb(0, 120, 180);
+    border-right: none;
+    border-left: none;
+    display: block;
+    margin: 1em 0;
+    padding: 1em 0;
+    font-style: italic;
+}
+.appendix,
+.references {
+    border-top: 3px solid rgb(0, 120, 180);
+}
+@media print {
+    body {
+        margin: 0;
+    }
+    blockquote {
+        border-top: none;
+        border-bottom: none;
+    }
+}
+@page {
+    margin: 1in;
+}
